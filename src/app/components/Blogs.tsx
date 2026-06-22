@@ -17,7 +17,7 @@ export default function Blogs() {
     },
     {
       slug: "understanding-js-promises",
-      title: `Promises في JavaScript — شرح بسيط بالمثال 🍕`,
+      title: `Promises في JavaScript — شرح بسيط  `,
       excerpt: `الـ Promise هو وعد إن عملية معينة هتخلص في المستقبل. في البوست شرحت بطريقة بسيطة ليه بنستخدم الـ Promises، وفايدتها، وإزاي نكتب مثال عملي بالـ setTimeout لتوضيح الفكرة.`,
       date: "2025-10-08",
       readTime: "3 min read",
@@ -57,10 +57,10 @@ export default function Blogs() {
               {...cardHoverSmall}
             >
               <div>
-                <h3 className="text-xl font-semibold mb-2 hover:text-primary transition-colors">
+                <h3 className="text-xl font-semibold mb-2 hover:text-primary transition-colors text-right">
                   {blog.title}
                 </h3>
-                <p className="text-gray-600 dark:text-gray-300 mb-4">
+                <p className="text-gray-600 dark:text-gray-300 mb-4 text-right">
                   {blog.excerpt}
                 </p>
               </div>

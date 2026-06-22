@@ -126,8 +126,8 @@ export default function About() {
             variants={fadeInUp}
             {...cardHoverSmall}
           >
-            <h3 className="text-xl font-semibold mb-2">Front-End Trainee — DEPI Program</h3>
-            <p className="text-primary mb-2">Remote • Jun 2025 – Present</p>
+            <h3 className="text-xl font-semibold mb-2">Front-End Student — DEPI Program</h3>
+            <p className="text-primary mb-2">Remote • Jun 2025 – Jan 2026</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
               <li>Building responsive React applications and reusable UI components.</li>
               <li>Working with Redux and modern front-end patterns to manage state.</li>
@@ -145,7 +145,7 @@ export default function About() {
             <p className="text-primary mb-2">Remote • Jul 2025 – Sep 2025</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
               <li>Built a personal portfolio and a task manager app with full CRUD functionality using React.</li>
-              <li>Integrated RESTful APIs and practiced MERN-based workflows (React, Express, MongoDB).</li>
+              <li>Integrated RESTful APIs and practiced MERN-based workflows (React, Express, Node, MongoDB).</li>
               <li>Worked in an agile environment with frequent feedback and iterative improvements.</li>
             </ul>
           </motion.div>
@@ -194,8 +194,8 @@ export default function About() {
             <h3 className="text-xl font-semibold mb-2">Bachelor of Science in Information Technology</h3>
             <p className="text-primary mb-2">Egyptian E-Learning University (EELU) • Sep 2022 – Aug 2026</p>
             <p className="text-secondary">
-              Pursuing a degree focused on web technologies, programming, and software development.  
-              Current GPA: <span className="font-semibold">3.1 / 4.0</span>
+              Pursuing a degree focused on web technologies, programming, and software development.  <br/>
+               GPA: <span className="font-semibold">3.02 / 4.0</span>
             </p>
           </motion.div>
         </motion.div>

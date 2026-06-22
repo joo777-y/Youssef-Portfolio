@@ -3,11 +3,11 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
     {
-        title: 'Mercedes Landing Page',
-        description: ' Built a pixel-perfect responsive landing page using modern CSS features like flexbox, spacing utilities, and transitions.',
-        technologies: ['HTML', 'CSS'],
-        githubLink: 'https://github.com/joo777-y/HTML-CSS',
-        demoLink: 'https://joo777-y.github.io/HTML-CSS/',
+        title: 'CVision Website',
+        description: ' Built a full website using React JS and tailwind CSS and integrating the website with Backend and AI model as a graduation project in my college.',
+        technologies: ['React JS', 'Tailwind', 'MongoDB'],
+        githubLink: 'https://github.com/joo777-y/CVision',
+        demoLink: 'https://c-vision-one.vercel.app',
         image: '/projects/project1.png',
       },
       {
@@ -28,10 +28,10 @@ export const projects: Project[] = [
       },
       {
         title: 'E-commerce Website',
-        description: 'Simulated an e-commerce product page with dynamic item cards, filter buttons, event listeners, and DOM updates.',
-        technologies: ['HTML5', 'CSS3', 'Java Script'],
-        githubLink: 'https://github.com/joo777-y/JS',
-        demoLink: 'https://joo777-y.github.io/JS/',
+        description: 'Developed a React-based e-commerce web app with features like authentication, product browsing, cart management, and API integration, as a final project in the Digital Egypt Initiative(DEPI).',
+        technologies: ['React JS', 'Tailwind CSS', 'Api Integration'],
+        githubLink: 'https://github.com/joo777-y/El-5alyaa-team',
+        demoLink: 'https://el-5alyaa-team.vercel.app/',
         image: '/projects/project8.png',
       },
       {
@@ -45,9 +45,9 @@ export const projects: Project[] = [
       {
         title: 'Portfolio Website',
         description: ' Built a simulation of a personal portfolio using JSX, reusable React components, and React Router. Practiced real-world project structure.',
-        technologies: ['React', 'Bootstrap', 'JS'],
+        technologies: ['Next JS', 'Tailwind CSS'],
         githubLink: 'https://github.com/joo777-y/my-portfolio',
         demoLink: 'https://joo777-y.github.io/my-portfolio/',
-        image: '/projects/project6.png',
+        image: '/projects/project4.png',
       }
   ];
