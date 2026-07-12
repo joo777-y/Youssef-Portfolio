@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Devfolio | Portfolio Website using Next.js, Tailwind CSS, and Framer Motion",
-  description: "Devfolio is a portfolio website for developers to showcase their projects and skills.",
+  title: "Youssef Hamdy's Portfolio Website using Next.js, Tailwind CSS, and Framer Motion",
+  description: "That is my portfolio website using Next.js and Tailwind CSS, in addition to it is fully responsive with all types of screens",
 };
 
 export default function RootLayout({
