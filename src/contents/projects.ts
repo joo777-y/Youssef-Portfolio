@@ -36,7 +36,7 @@ export const projects: Project[] = [
       },
       {
         title: 'Shopify Simulation',
-        description: 'A website that creating using html,css and java script. it is a simulation for Shopify Website',
+        description: 'A website that creating using html,css and java script. it is considered as a simulation of Shopify Website',
         technologies: ['HTML', 'CSS', 'Java Script','Tailwind CSS'],
         githubLink: 'https://github.com/joo777-y/Review-Project.git',
         demoLink: 'https://joo777-y.github.io/Review-Project/',
